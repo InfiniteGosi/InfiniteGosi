@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Khang 👋
 - 🌱 I’m currently learning B.E of software engineering at Ton Duc Thang university, Vietnam.
 - 🌱 I’m currently learning Unity, C++, Javascript.
 - 💬 Ask me about game making.
