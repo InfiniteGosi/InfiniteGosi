@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning B.E of software engineering at Ton Duc Thang university, Vietnam.
-- 🌱 I’m currently learning Unity, C++, Javescript.
+- 🌱 I’m currently learning Unity, C++, Javascript.
 - 💬 Ask me about game making.
 
 <!--
