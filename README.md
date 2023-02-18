@@ -1,5 +1,5 @@
 ### Hi there, I'm Khang 👋
-- 🌱 I’m currently software engineering at Ton Duc Thang university, Vietnam.
+- 🌱 I’m currently majoring in software engineering at Ton Duc Thang university, Vietnam.
 - 🌱 I’m currently learning Unity, C++, Pyhon.
 - 💬 Ask me about game making.
 
