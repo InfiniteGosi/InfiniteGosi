@@ -1,7 +1,4 @@
 ### Hi there, I'm Khang 👋
-- 🌱 I’m currently majoring in software engineering at Ton Duc Thang university, Vietnam.
-
-
 <!--
 **InfiniteGosi/InfiniteGosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
